@@ -1,0 +1,72 @@
+
+img.pho
+{
+width: 150px;
+height: 150px;
+border-radius: 50%;
+border-color: #3d3d3d;
+border:2pt solid;
+}
+img.logo
+{
+
+height: 200px;
+
+}
+div.paper
+{
+margin:0% 10% 0% 10%;
+text-align:center;
+}
+div.profile
+{
+font-family: "微軟正黑體";
+text-align: center;
+padding: 2%;
+
+box-shadow: 0 0 5em #fef0b7 inset;
+}
+div.info
+{
+font-family: "微軟正黑體";
+text-align: center;
+padding: 2%;
+
+}
+div.skill
+{
+font-family: "微軟正黑體";
+padding: 5%;
+columns:4;
+}
+div.able
+{
+	position: relative;
+	transition: 0.5s;
+	padding: 5%;
+}
+div.able:hover
+{
+	background-color: #fef0b7;
+}
+div.skillbar
+{
+	columns:2;
+}
+*{box-sizing: border-box}
+
+.container {
+  width: 100%;
+  background-color: #ddd;
+}
+
+.skills {
+  text-align: right;
+  padding: 10px;
+  color: white;
+}
+
+.html {width: 90%; background-color: #4CAF50;}
+.css {width: 80%; background-color: #2196F3;}
+.js {width: 65%; background-color: #f44336;}
+.CSP {width: 60%; background-color: #808080;}
