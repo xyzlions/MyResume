@@ -40,7 +40,6 @@ img.pho
 width: 150px;
 height: 150px;
 border-radius: 50%;
-
 border:1pt #00BBFF dotted;
 }
 img.logo
@@ -49,8 +48,8 @@ height: 200px;
 }
 div.paper
 {
-	border:2pt #77DDFF solid;
-margin:0% 25% 0% 25%;
+border:1em #4169E1 outset;
+margin:0% 20% 0% 20%;
 text-align:center;
 background-color: #F0FFFF;
 }
@@ -63,8 +62,8 @@ div.profile
 font-family: "微軟正黑體";
 text-align: center;
 padding: 2%;
-box-shadow: 0 0 5em #87CEFA inset;
-margin: 1%;
+border: 1em #6495ED double;
+margin: 5%;
 }
 div.info
 {
@@ -97,62 +96,52 @@ columns:2;
 {
 width: 75%;
 background-color:   #B0C4DE;
-
 }
 .skills
 {
 text-align: right;
 padding: 5%;
 color: white;
-
 }
 .html
 {
 width: 75%;
 background-color: #6495ED;
-
 }
 .css
 {
 width: 65%;
 background-color: #2196F3;
-
 }
 .js
 {
 width: 45%;
 background-color:   #87CEFA;
-
 }
 .CSP
 {
 width: 60%;
 background-color: #1E90FF;
-
 }
 .Word
 {
 width: 90%;
 background-color: #4169E1;
-
 }
 .PPT
 {
 width: 70%;
 background-color: #6495ED;
-
 }
 .SQL
 {
 width: 50%;
 background-color:  #87CEFA;
-
 }
 .DBS
 {
 width: 50%;
 background-color: #00BFFF;
-
 }
 .clearfix:after /*讓圖片浮動後不脫離背景*/
 {
