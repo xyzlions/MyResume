@@ -1,5 +1,6 @@
 body
 {
+	font-family: "微軟正黑體";
 background-color:   #F5FFFA;
 }
 .time-horizontal {
@@ -59,7 +60,7 @@ margin: 5%;
 }
 div.profile
 {
-font-family: "微軟正黑體";
+background-color: #F0F8FF;
 text-align: center;
 padding: 2%;
 border: 1em #6495ED double;
